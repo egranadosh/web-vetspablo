@@ -1,0 +1,6 @@
+body{
+    background-color: (255,255,255);
+}
+.top{
+    display: flex;
+}
