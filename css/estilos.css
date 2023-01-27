@@ -1,6 +1,41 @@
 body{
     background-color: (255,255,255);
+    font-family: 'Quicksand', sans-serif;
+    color: #676767;
 }
-.top{
+
+.medium{
+    text-align: center;
+}
+
+.medium ul{
     display: flex;
 }
+/* .medium li{
+    list-style: none;
+} */
+.medium ul img{
+    position: center;
+}
+.card{
+    width: 300px;
+    margin-right: 15px;
+
+}
+
+.card li{
+    list-style: none;
+    /* align-content: center; */
+}
+
+.card h2{
+    height: 50px;
+    color: #ACD9B2;
+}
+
+.icon-lista{
+    width: 100px;
+    height: 100px; 
+}
+
+
